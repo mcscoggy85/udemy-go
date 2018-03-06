@@ -15,3 +15,4 @@ func main() {
 	foo(aSlice...)
 	foo()
 }
+
