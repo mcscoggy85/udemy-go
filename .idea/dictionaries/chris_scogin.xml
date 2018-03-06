@@ -2,6 +2,8 @@
   <dictionary name="chris.scogin">
     <words>
       <w>evenorodd</w>
+      <w>makegreeter</w>
+      <w>takesint</w>
     </words>
   </dictionary>
 </component>
