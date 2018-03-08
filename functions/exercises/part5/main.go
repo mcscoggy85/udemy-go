@@ -14,5 +14,5 @@ func main() {
 	aSlice := []int{1,2,3,4}
 	foo(aSlice...)
 	foo()
+	foo(1)
 }
-
